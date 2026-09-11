@@ -1,0 +1,1 @@
+console.log("Git Assignment JavaScript file loaded successfully.");
